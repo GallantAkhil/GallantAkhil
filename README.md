@@ -7,7 +7,7 @@
 🚀 **Technical Lead | AI & Cloud Architect**  
 📍 Pune, India  
 💼 Technical Lead at Method Hub (Outsourced @ BP)  
-🏗 Founder and Director (Former) – Affirmity Corp  
+🏗 Co-Founder and Director (Former) – Affirmity Corp  
 🏗 Founder (Former) – Gallant Fusion Tech  
 🧠 6+ years of experience in building scalable, production-grade systems
 
